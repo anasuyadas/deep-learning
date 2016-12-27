@@ -1,0 +1,24 @@
+venv
+*.pkl
+*.pdf
+*/*.pdf
+
+*.xml
+*./*.xml
+
+*.pyc
+
+*idea/vcs.xml
+
+*.iml
+runs/
+*.gz
+MNIST data/*
+/*.gz
+
+papers.*
+*.npy
+runs
+*/runs
+.DS_Store
+.idea/
